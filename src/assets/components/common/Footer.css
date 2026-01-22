@@ -1,0 +1,36 @@
+/* ===== Mobiluxe Footer Theme ===== */
+.app-footer {
+  padding: 14px 20px;
+  text-align: center;
+  font-size: 14px;
+  background-color: #0f172a; /* Dark navy */
+  color: #cbd5f5; /* Soft light text */
+  border-top: 1px solid #1e293b;
+}
+
+/* Footer demo links */
+.footer-links {
+  display: flex;
+  justify-content: center;
+  gap: 18px;
+  margin-bottom: 6px;
+  font-size: 13px;
+}
+
+.footer-links span {
+  cursor: pointer;
+  color: #60a5fa; /* Mobiluxe accent blue */
+  transition: color 0.2s ease;
+}
+
+.footer-links span:hover {
+  color: #93c5fd;
+  text-decoration: underline;
+}
+
+/* Version tag */
+.footer-links .version {
+  color: #94a3b8;
+  cursor: default;
+  text-decoration: none;
+}

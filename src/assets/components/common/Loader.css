@@ -1,0 +1,15 @@
+/* ===== Mobiluxe Loader ===== */
+.loader-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px;
+  color: #2563eb; /* Mobiluxe blue */
+}
+
+.loader-text {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #475569;
+}

@@ -1,0 +1,46 @@
+/* Background */
+.login-wrapper {
+  background: linear-gradient(135deg, #0f172a, #1e293b, #020617);
+}
+
+/* Card */
+.login-card {
+  border-radius: 16px;
+  border: none;
+  padding: 14px;
+  background-color: #ffffff;
+}
+
+/* Brand */
+.brand-name {
+  color: #0f172a;
+  letter-spacing: 1px;
+}
+
+.brand-tagline {
+  color: #64748b;
+  font-size: 0.95rem;
+}
+
+/* Buttons */
+.role-btn {
+  border-radius: 10px;
+  font-weight: 500;
+}
+
+/* Password toggle */
+.password-wrapper {
+  position: relative;
+}
+
+.toggle-password {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  color: #64748b;
+}
+.cursor-pointer {
+  cursor: pointer;
+}
