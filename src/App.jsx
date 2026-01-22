@@ -10,7 +10,7 @@ import MyProducts from "./assets/pages/staff/Products";
 import AddProduct from "./assets/pages/staff/AddProduct";
 import StaffApproval from "./assets/pages/admin/StaffApproval";
 import ClientProducts from "./assets/pages/client/ProductList";
-import StaffEditProduct from "./assets/pages/staff/staffEditProduct";
+import StaffEditProduct from "./assets/pages/staff/StaffEditProduct";
 
 import ProtectedRoute from "./assets/routes/ProtectedRoute";
 import AdminRoute from "./assets/routes/AdminRoute";
