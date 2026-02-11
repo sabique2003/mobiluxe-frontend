@@ -2,6 +2,7 @@ import axios from "axios";
 
 const API = axios.create({
   baseURL: "https://api.merobi.com/api",
+            "https://mobiluxe-backend.onrender.com/api"
 });
 
 // Attach token automatically
